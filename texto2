@@ -1,0 +1,7 @@
+    =LAMBDA(Texto,
+    NucleoInvertir(
+        Texto,
+        "",
+        LARGO(Texto)
+    )
+)
